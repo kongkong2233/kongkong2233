@@ -8,5 +8,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vue&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vuejs&logoColor=white" />
+</div>
+
+## 🛠️Tools
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/InteliJ-000000.svg?&style=for-the-badge&logo=intelij&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCODE-61DAFB.svg?&style=for-the-badge&logo=vscode&logoColor=white" />
 </div>
