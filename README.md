@@ -7,4 +7,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=vue&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vue&logoColor=white" />
