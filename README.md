@@ -16,6 +16,6 @@
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/InteliJ-000000.svg?&style=for-the-badge&logo=intelijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCODE-61DAFB.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
